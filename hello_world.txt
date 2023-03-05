@@ -1,1 +1,3 @@
-my first commit
+# git_test
+My first Github repo!
+Hello Odin!
